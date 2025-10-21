@@ -32,3 +32,6 @@ Le problème est formulé comme un **problème inverse de l’équation de Black
 - Programmation scientifique en **Python (NumPy, SciPy, Matplotlib)**  
 - Analyse d’erreur et validation numérique  
 - Rédaction scientifique sous **LaTeX**
+
+
+Tous les codes Python associés à ce projet sont présentés en annexe du rapport.
